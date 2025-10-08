@@ -1,1 +1,4 @@
 mailbox
+pandas
+matplotlib
+seaborn
